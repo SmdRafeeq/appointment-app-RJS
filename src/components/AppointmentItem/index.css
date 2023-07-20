@@ -1,0 +1,34 @@
+.appointment-item-con {
+  width: 30%;
+  border: 2px solid #b5b7c4;
+  border-radius: 10px;
+  margin: 10px 15px 10px 0;
+  padding: 12px;
+}
+
+.appointment-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.appointment-title {
+  font-size: 20px;
+  color: #171f46;
+}
+
+.star-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.star-image {
+  width: 25px;
+  height: 25px;
+}
+
+.date {
+  font-size: 14px;
+  color: #b5b7c4;
+}
